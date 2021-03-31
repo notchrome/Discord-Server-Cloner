@@ -1,0 +1,16 @@
+{
+  "name": "cloner",
+  "version": "1.0.0",
+  "description": "Advanced Discord Server Cloner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "@chrome#5555",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^7.3.3",
+    "retry-axios": "^2.4.0"
+  }
+}
