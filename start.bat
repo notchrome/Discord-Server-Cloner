@@ -1,3 +1,3 @@
 @echo off
-bytenode fly.jsc
+node index.js
 pause
