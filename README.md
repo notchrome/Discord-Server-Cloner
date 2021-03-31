@@ -1,2 +1,2 @@
 # Discord-Server-Cloner
-Server Cloner + Messages
+Advanced Server Cloner + Messages (Nov 2020)
