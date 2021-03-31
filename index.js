@@ -405,7 +405,7 @@ async function getmsgs(oldchannelids) {
 
     messages = [];
 
-    await axios(`/channels/${oldchannelids}/messages?limit=20`, {
+    await axios(`/channels/${oldchannelids}/messages?limit=99`, {
             method: 'GET',
             headers: secondhead,
             raxConfig: {
